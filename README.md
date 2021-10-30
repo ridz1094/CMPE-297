@@ -20,3 +20,11 @@ Assignment 3 -
     PartD - Sentence Similarity
     
     PartE - Text Summarization
+    
+Assignment 4 - 
+    
+    PartA - Tabular Data
+    
+    PartB - Image Data
+    
+    PartC - Text Data
