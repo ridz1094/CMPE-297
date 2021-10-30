@@ -8,3 +8,15 @@ Assignment 2 -
     PartA - perceiver ml model for classification in keras
   
     PartB - perceiver IO model code in a colab for audio encoding
+    
+Assignment 3 - 
+  
+    PartA - Sentiment Analysis
+  
+    PartB - Named Entity Recognition
+    
+    PartC - Question and Answer
+    
+    PartD - Sentence Similarity
+    
+    PartE - Text Summarization
