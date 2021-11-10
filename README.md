@@ -28,3 +28,11 @@ Assignment 4 -
     PartB - Image Data
     
     PartC - Text Data
+    
+Assignment 5 - 
+
+    PartA - MAML
+    
+    PartB - MOME
+    
+    PartC - Avalanche
