@@ -36,3 +36,9 @@ Assignment 5 -
     PartB - MOME
     
     PartC - Avalanche
+   
+Assignment 7 - 
+  
+    PartA - Weak Supervision
+    
+    PartB - Active Learning with End2End
